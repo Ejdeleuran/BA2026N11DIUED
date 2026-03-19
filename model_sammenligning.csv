@@ -1,0 +1,4 @@
+"Model","Accuracy","Sensitivity","Specificity"
+"Logistisk Regression",0.333,0,0.4
+"Decision Tree",1,1,1
+"Random Forest",1,1,1

@@ -1,0 +1,3 @@
+Model,AUC,Datakilder,Prædiktorer,AUC_vs_Baseline,Forbedring_pct
+1: Kun Hudl,1,Hudl,Hudl_Points_Per_Game,0,+0.0%
+Ref: DIU (baseline),1,DIU,DIU_Leg_Asymmetry_pct,0,+0.0%
